@@ -1,2 +1,2 @@
- groups $FT_USER | tr ' ' ','
+ls -1 | wc -l
  
